@@ -40,7 +40,7 @@ section {
 .team-card-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 40px;
+  gap: 30px;
   justify-content: center;
   max-width: 1200px;
   margin: 100px auto;
